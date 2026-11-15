@@ -1,0 +1,8 @@
+{
+  "appId": "com.krnoe.catalog",
+  "appName": "Каталог КБ",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
